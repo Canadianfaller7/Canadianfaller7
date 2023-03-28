@@ -1,4 +1,6 @@
-### 👋 Hi, I’m Spencer, I am currently employed as a Technical Support Engineer at Accela
+### 👋 Hi, I’m Spencer, I am currently employed as a Technical Support Engineer at Accela.
+
+- ⚡ Fun fact: I love building retro gameboys and skateboarding. If I am not coding or working on some tech, I am spending time with my wife and are 9 month old baby.
 
 <!--
 **Canadianfaller7/Canadianfaller7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canadianfaller7&show_icons=true&theme=vision-friendly-dark)
