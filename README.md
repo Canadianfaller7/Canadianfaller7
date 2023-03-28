@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canadianfaller7&show_icons=true&theme=vision-friendly-dark)
+- My Current GitHub Stats:
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canadianfaller7&show_icons=true&theme=vision-friendly-dark)
