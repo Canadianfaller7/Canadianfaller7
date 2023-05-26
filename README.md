@@ -1,7 +1,9 @@
 ### 👋 Hi, I’m Spencer, I am currently employed as a Technical Support Engineer at Accela. I have recently graduated from the University of Utah Full Stack Engineering bootcamp, resulting in my second certificate. 
 
-- My proficiency in front-end technologies, are: HTML, CSS, JavaScript, React, Swift, Handlebars, Razor, and DTL.
-- I also have comprehensive experience in backend and database programming utilizing Python, Node.js, C#, MySQL, PostgreSQL, T-SQL, MongoDB, and GraphQL, establishes me as a well-rounded developer capable of tackling any challenge.
+- 🔭 I’m currently working on rebuilding diyshutters.co ecommerse website with NextJS
+
+- My proficiency in front-end technologies, are: HTML, CSS, JavaScript, React, NextJS, Swift, Handlebars, Razor, and DTL.
+- I also have comprehensive experience in backend and database programming utilizing Python, Node.js, C#, MySQL, PostgreSQL, SQL,T-SQL, MongoDB, and GraphQL, establishes me as a well-rounded developer capable of tackling any challenge.
 
 - ⚡ Fun fact: I love building retro gameboys and skateboarding. If I am not coding or working on some tech, I am spending time with my wife and are 9 month old baby.
 
